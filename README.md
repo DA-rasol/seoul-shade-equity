@@ -3,7 +3,9 @@
 ## 서울시 고령 생활인구와 열환경을 고려한 그늘 형평성·충분성 분석 및 그늘막 추가 설치 우선순위 선정 
 
 
-### 👥 Team DA-rasol <br/>: Three sophomore students from the Dept. of Data Science at DSWU
+
+### 👥 Team DA-rasol <br/>
+: Three sophomore students from the Dept. of Data Science at DSWU
 
 <div align="center">
   <table>
@@ -12,21 +14,21 @@
         <img src="https://github.com/stopwonee.png" width="150" />
       </td>
       <td align="center" width="200">
-        <img src="https://github.com/username2.png" width="150" />
+        <img src="https://github.com/luna-data.png" width="150" />
       </td>
       <td align="center" width="200">
-        <img src="https://github.com/username3.png" width="150" />
+        <img src="https://github.com/lazychoooong.png" width="150" />
       </td>
     </tr>
     <tr>
       <td align="center"><b>정지원</b></td>
-      <td align="center"><b>팀원 2</b></td>
-      <td align="center"><b>팀원 3</b></td>
+      <td align="center"><b>김홍빈</b></td>
+      <td align="center"><b>이은총</b></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/stopwonee">@stopwonee</a></td>
-      <td align="center"><a href="https://github.com/username2">@username2</a></td>
-      <td align="center"><a href="https://github.com/username3">@username3</a></td>
+      <td align="center"><a href="https://github.com/luna-data">@luna-data</a></td>
+      <td align="center"><a href="https://github.com/lazychoooong">@lazychoooong</a></td>
     </tr>
   </table>
 </div>
@@ -41,7 +43,5 @@
 
 <hr>
 
-# 🤝 Conventions
-노션 링크 확인 바랍니다!
-([NOTION 👥](https://app.notion.com/p/40b956aa82b080d0aba1ec293602c405?v=40b956aa82b080d5a26c000cad5abc9b&source=copy_link))
+#### 🤝 Conventions: 노션 링크 확인 바랍니다! ([NOTION 👥](https://app.notion.com/p/40b956aa82b080d0aba1ec293602c405?v=40b956aa82b080d5a26c000cad5abc9b&source=copy_link))
 
