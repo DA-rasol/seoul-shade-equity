@@ -43,5 +43,5 @@
 
 <hr>
 
-#### 🤝 Conventions: 노션 링크 확인 바랍니다! ([NOTION 👥](https://app.notion.com/p/40b956aa82b080d0aba1ec293602c405?v=40b956aa82b080d5a26c000cad5abc9b&source=copy_link))
+#### 🤝 Conventions: 노션 링크 확인 바랍니다! [NOTION](https://app.notion.com/p/40b956aa82b080d0aba1ec293602c405?v=40b956aa82b080d5a26c000cad5abc9b&source=copy_link)
 
